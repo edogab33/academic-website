@@ -1,0 +1,1 @@
+Edoardo Gabrielli. Based on [Hugo](https://gohugo.io/) and [riggraz/no-style-please](https://github.com/riggraz/no-style-please).

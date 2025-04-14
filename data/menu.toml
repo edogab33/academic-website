@@ -1,0 +1,57 @@
+[[entries]]
+title = "Info"
+  [[entries.entries]]
+  title="Email: edoardo.gabrielli[at]uniroma1.it"
+  [[entries.entries]]
+    title = "Socials"
+    [[entries.entries.entries]]
+    title = "<a href='https://scholar.google.com/citations?user=b3bePdYAAAAJ&hl=it'>Google Scholar</a>"
+    [[entries.entries.entries]]
+    title = "<a href='https://github.com/edogab33'>GitHub</a>"
+    [[entries.entries.entries]]
+    title = "<a href='https://www.linkedin.com/in/edoardog/'>LinkedIn</a>"
+  [[entries.entries]]
+  title="Education and academic experience"
+  [[entries.entries.entries]]
+  title = "[present] Teaching Assistant, Sapienza University of Rome, Italy"
+  [[entries.entries.entries]]
+  title = "[present] PhD in Cybersecurity, Sapienza University of Rome, Italy"
+  [[entries.entries.entries]]
+  title = "Jan '23 - Master's Degree in Computer Science, Sapienza University of Rome, Italy"
+  [[entries.entries.entries]]
+  title = "May '20 - Bachelor's Degree in Informatics, Sapienza University of Rome, Italy"
+
+
+#[[entries]]
+#title = "posts"
+#
+#  [entries.post_list]
+#  section = "posts"
+#  limit = 5
+#  show_more = true
+#  show_more_text = "See more posts..."
+#  show_more_url = "posts"
+
+
+[[entries]]
+title = "Publications"
+
+  [entries.post_list]
+  section = "publications"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
+
+
+#[[entries]]
+#title = "latest"
+#
+#  [entries.post_list]
+#  limit = 5
+#  show_more = true
+#  show_more_text = "See archive..."
+#  show_more_url = "posts"
+
+[[entries]]
+title = "rss"
+url = "index.xml"
