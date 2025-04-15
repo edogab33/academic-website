@@ -1,5 +1,5 @@
 +++
-date = '2025-04-13T20:22:27+02:00'
+date = '2025-01-13T20:22:27+02:00'
 draft = false
 title = 'Community Membership Hiding via Gradient-based Optimization'
 +++
